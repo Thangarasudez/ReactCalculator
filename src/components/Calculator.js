@@ -20,7 +20,7 @@ const Calculator = () => {
       setValue("Error");
     }
   };
-  console.log(typeof value);
+
   return (
     <div className="container">
       <div className="displayContent">
